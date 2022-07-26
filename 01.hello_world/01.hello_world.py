@@ -11,4 +11,4 @@ if __name__ == '__main__':
     app.run()
 
 # URL: http://localhost:5000/
-# Output: Hello World!!
+# Output: https://github.com/avinash3699/flask-basics/blob/main/01.hello_world/output.jpg
