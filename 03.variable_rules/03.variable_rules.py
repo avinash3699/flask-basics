@@ -18,16 +18,16 @@ if __name__ == "__main__":
     app.run()
 
 # URL: http://localhost:5000/print/Hello%20friemds.%20Cheems%20here
-# Output: Hello friemds. Cheems here
+# Output: https://github.com/avinash3699/flask-basics/blob/main/03.variable_rules/output1.jpg
 
 # URL: http://localhost:5000/printNum/99
-# Output: Number is 99
+# Output: https://github.com/avinash3699/flask-basics/blob/main/03.variable_rules/output2.jpg
 
 # URL: http://localhost:5000/printNum/nine
-# Output: ERROR
+# Output: https://github.com/avinash3699/flask-basics/blob/main/03.variable_rules/output3.jpg
 
 # URL: http://localhost:5000/printFloat/369.963
-# Output: Floating Number is 369.963
+# Output: https://github.com/avinash3699/flask-basics/blob/main/03.variable_rules/output4.jpg
 
 # URL: http://localhost:5000/printFloat/threepointnine
-# Output: ERROR
+# Output: https://github.com/avinash3699/flask-basics/blob/main/03.variable_rules/output5.jpg
