@@ -21,3 +21,12 @@ def handleRequest():
 
 if __name__ == "__main__":
     app.run(debug = True)    
+    
+# Step 1: Open form.htm in the browser. The below page opens up
+# Output: 
+
+# Step 2: Type something in the first input area and click the 'submit - get req'
+# Output: 
+
+# Step 3: Go to previous page. Type something in the second input area and click the 'submit - post req'
+# Output: 
