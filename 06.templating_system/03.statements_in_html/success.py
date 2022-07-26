@@ -10,7 +10,7 @@ if __name__ == "__main__":
     app.run(debug = True)
 
 # URL: http://localhost:5000/Avinash/20/39
-# Output: 
+# Output: https://github.com/avinash3699/flask-basics/blob/main/06.templating_system/03.statements_in_html/output1.jpg
 
 # URL: http://localhost:5000/Avinash/20/69
-# Output: 
+# Output: https://github.com/avinash3699/flask-basics/blob/main/06.templating_system/03.statements_in_html/output2.jpg
