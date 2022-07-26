@@ -12,4 +12,4 @@ if __name__ == "__main__":
     app.run()
 
 # URL: http://localhost:5000/hello
-# Output: Hello World using add_url_rule
+# Output: https://github.com/avinash3699/flask-basics/blob/main/02.add_url_rule/output.jpg
