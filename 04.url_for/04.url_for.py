@@ -28,23 +28,10 @@ def service(req, maxCount):
 if __name__ == "__main__":
     app.run(debug =  True)
 
-'''
-URL: http://localhost:5000/request/proglang/6 redirected to
-     http://localhost:5000/proglang/6
-Output: Programming Languages:
-        Python
-        Java
-        C
-        C++
-        R
-        JavaScript
-'''
+# URL: http://localhost:5000/request/proglang/6 redirected to
+#      http://localhost:5000/proglang/6
+# Output: https://github.com/avinash3699/flask-basics/blob/main/04.url_for/output1.jpg
 
-'''
-URL: http://localhost:5000/request/notproglang/3 redirected to
-     http://localhost:5000/notproglang/3
-Output: Not Programming Languages:
-        HTML xD
-        CSS
-        AJAX
-'''
+# URL: http://localhost:5000/request/notproglang/3 redirected to
+#      http://localhost:5000/notproglang/3
+# Output: https://github.com/avinash3699/flask-basics/blob/main/04.url_for/output2.jpg
