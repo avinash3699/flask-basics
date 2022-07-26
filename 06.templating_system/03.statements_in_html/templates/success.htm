@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <title> Success Page</title> 
+</head> 
+
+<body> 
+    <h1> Success!!! </h1>
+    <h2> Name: {{ name }} </h2>
+    <h2> Age: {{ age }} </h2>
+    <h2> Marks: {{ mark }} </h2>
+
+    {% if (mark >= 40) %}
+        <h2> Result: Pass :) </h2>
+    
+    {% else %}
+        <h2> Result: Fail :/ </h2>
+
+    {% endif %}
+</body> 
+
+</html>
