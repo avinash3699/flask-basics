@@ -10,4 +10,4 @@ if __name__ == "__main__":
     app.run(debug = True)
 
 # URL: http://localhost:5000/
-# Output: 
+# Output: https://github.com/avinash3699/flask-basics/blob/main/06.templating_system/01.simple_template_render/output.jpg
