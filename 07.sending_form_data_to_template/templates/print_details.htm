@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Details Entered </title>
+</head>
+<body>
+    <h1> Details Entered </h1>
+
+    {% for key, value in details.items() %}
+        <h2> {{ key }}: {{ value }}</h2>
+    {% endfor %}
+
+</body>
+</html>
